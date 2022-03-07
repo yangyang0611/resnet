@@ -19,7 +19,8 @@ You will need the following to run the above:
 
 - TensorFlow
 - Pytorch
-- Colab
+- Colab 
+
 If your computer didn’t have GPU, it will consume plenty of time for training
 
 ## Results from Original Paper
